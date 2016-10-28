@@ -1,6 +1,7 @@
 @import url("font-awesome.min.css");
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,400italic,600,600italic,700,700italic");
 @import url('https://fonts.googleapis.com/css?family=Megrim');
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
 
 /*
 	Directive by HTML5 UP
@@ -1843,7 +1844,7 @@
 	}
 
 	p, ul, ol, dl, table, blockquote, form {
-		font-family: Arial, Helvetica, sans-serif;
+		font-family: "Quicksand";
 		font-weight: bold;
 		margin: 0 0 2em 0;
 	}
